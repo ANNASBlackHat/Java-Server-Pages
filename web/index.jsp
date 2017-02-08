@@ -1,0 +1,1 @@
+<jsp:forward page="HomeJurusan.jsp"></jsp:forward>>
